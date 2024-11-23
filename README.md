@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HmzaAshrf
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Front End Development by META.
-- 💞️ I’m looking to collaborate on Front-End Development projects
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Analysis.
+- 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 To reach me just Dm
 
 <!---
